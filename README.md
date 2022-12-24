@@ -1,0 +1,19 @@
+//SAMPLE INPUT:
+5
+TOI
+3 3 3 3 3 5 6
+Hindu
+2.5 2.5 2.5 2.5 2.5 4 4
+ET 
+4 4 4 4 4 4 10
+BM
+1.5 1.5 1.5 1.5 1.5 1.5 1.5
+HT
+2 2 2 2 2 4 4
+2 //TOTAL TEST CASES
+40
+35
+
+//SAMPLE OUTPUT:
+{TOI,BM}{Hindu,BM}{Hindu,HT}{BM,HT}
+{TOI,BM}{Hindu,BM}{BM,HT}
