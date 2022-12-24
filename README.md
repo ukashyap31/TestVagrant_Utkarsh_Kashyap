@@ -11,8 +11,8 @@ BM
 HT
 2 2 2 2 2 4 4
 2 //TOTAL TEST CASES
-40
-35
+40 //Budget
+35 //Budget
 
 //SAMPLE OUTPUT:
 {TOI,BM}{Hindu,BM}{Hindu,HT}{BM,HT}
